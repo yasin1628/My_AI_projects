@@ -1,4 +1,4 @@
-prefix=D:/Workstation/ML_project/End_To_End_Text_Summarization_Project/My_AI_projects/End_To_End_Text_Summarization_project/venv/Library 
+prefix=d:/Workstation/ML_project/End_To_End_Text_Summarization_Project/My_AI_projects/End_To_End_Text_Summarization_project/venv/Library 
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include

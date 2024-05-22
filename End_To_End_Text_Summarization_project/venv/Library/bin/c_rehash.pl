@@ -12,8 +12,8 @@
 # Perl c_rehash script, scan all files in a directory
 # and add symbolic links to their hash values.
 
-my $dir = "D:/Workstation/ML_project/End_To_End_Text_Summarization_Project/My_AI_projects/End_To_End_Text_Summarization_project/venv\\Library";
-my $prefix = "D:/Workstation/ML_project/End_To_End_Text_Summarization_Project/My_AI_projects/End_To_End_Text_Summarization_project/venv\\Library";
+my $dir = "d:/Workstation/ML_project/End_To_End_Text_Summarization_Project/My_AI_projects/End_To_End_Text_Summarization_project/venv\\Library";
+my $prefix = "d:/Workstation/ML_project/End_To_End_Text_Summarization_Project/My_AI_projects/End_To_End_Text_Summarization_project/venv\\Library";
 
 my $errorcount = 0;
 my $openssl = $ENV{OPENSSL} || "openssl";
